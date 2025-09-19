@@ -1,0 +1,9 @@
+sample,tissue,age_group,genotype,sex
+M_Y_WT_1,muscle,young,WT,F
+M_Y_WT_2,muscle,young,WT,M
+M_O_MUT_1,muscle,old,Mutant,F
+M_O_WT_1,muscle,old,WT,M
+L_Y_WT_1,liver,young,WT,F
+L_Y_MUT_1,liver,young,Mutant,M
+L_O_WT_1,liver,old,WT,F
+L_O_MUT_1,liver,old,Mutant,M
