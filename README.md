@@ -48,13 +48,6 @@ The app allows you to upload metadata, expression matrices, and DESeq2 results t
    ```r
    shiny::runApp("app.R")
    ```
-
----
-
-## Requirements
-- R ≥ 4.0  
-- Shiny ≥ 1.7    
-
 ---
 
 ## Contact
