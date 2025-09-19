@@ -60,5 +60,5 @@ The app allows you to upload metadata, expression matrices, and DESeq2 results t
 ## Contact
 Questions, feature requests, or bug reports:  
 - Email: [aysevilpektas@gmail.com](mailto:aysevilpektas@gmail.com)  
-- GitHub Issues: [your-repo-link](https://github.com/aysevllpkts)  
+- GitHub Issues: [de-expression-viewer](https://github.com/aysevllpkts/de-expression-viewer/issues)
 
