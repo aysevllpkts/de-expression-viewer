@@ -16,7 +16,7 @@
 # ------------------------------------------------------------------------------
 options(shiny.maxRequestSize = 1024^3)  # ~1 GB
 suppressPackageStartupMessages({
-  library(shiny); library(DT); library(dplyr); library(tidyr)
+  library(shiny); library(DT); library(dplyr); library(tidyr); library(DESeq2);
   library(tibble); library(ggplot2); library(readr); library(tools); library(readxl)
 })
 
